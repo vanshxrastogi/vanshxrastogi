@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://vanshxrastogi.github.io/media/vansh-rastogi-logo.png" alt="Vansh Rastogi" width="300" />
-</p>
-
 <h1 align="center">Vansh Rastogi</h1>
 <p align="center"><strong>AI Filmmaker · Creative Director · Generative AI Artist</strong></p>
 <p align="center">Imagined with AI. Crafted to feel real.</p>
